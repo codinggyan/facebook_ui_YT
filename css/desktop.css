@@ -3,7 +3,7 @@
     display: none;
   }
   
-  /* Styles for whole web page */
+  /* Styles for whole web page*/
   * {
     box-sizing: border-box;
   }
@@ -34,7 +34,7 @@
     select:focus {
       outline: none;
     }
-  }
+  } 
   
   
   /* Styles for header */
